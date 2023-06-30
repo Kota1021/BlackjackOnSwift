@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftyblackjack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kota1021/SwiftyBlackjack.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1fe9b0deed6c47b5dac2bec4d9c76c5e92f3a348"
+      }
+    }
+  ],
+  "version" : 2
+}
